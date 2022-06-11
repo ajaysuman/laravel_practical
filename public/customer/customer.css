@@ -1,0 +1,30 @@
+  #customer_data {
+    display: none;
+    width: 62%;
+    margin-left: 16%;
+    margin-top: 6%;
+  }
+  .errors{
+      color: red;
+  }
+  div#formCostomer {
+    background: burlywood;
+  }
+
+  button.addCustomer.btn-primary {
+      margin-left: 87%;
+      margin-bottom: 2%;
+  }
+  a#softdelete {
+      width: 54%;
+  }
+  a#edit {
+      width: 42%;
+  }
+
+  img#filesize {
+      width: 100px;
+      height: 70px;
+      margin-top: 5px;
+  }
+}
